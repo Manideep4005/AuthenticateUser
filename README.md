@@ -4,6 +4,6 @@ after successfull authentication the user account will set to active status and 
 
 Technolgies used
 ----------------
-Java, Spring MVC, Hibernate, MySQL for Backend
-HTML, CSS, JavaScript for frontend
+Java, Spring MVC, Hibernate, MySQL for Backend | 
+HTML, CSS, JavaScript for frontend | 
 SMTP for Mail services
